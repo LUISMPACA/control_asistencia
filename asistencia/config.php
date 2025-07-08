@@ -1,7 +1,7 @@
 <?php
 return [
-    'host' => 'localhost',
-    'user' => 'usuario',
-    'password' => 'Contraseña',
-    'database' => 'asistencia'
+    'host' => '138.68.226.228',
+    'user' => 'cepreuna',
+    'password' => 'Cepreuna2020+',
+    'database' => 'cepreuna_production'
 ];
